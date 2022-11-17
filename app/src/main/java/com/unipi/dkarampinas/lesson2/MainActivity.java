@@ -54,7 +54,7 @@ public class MainActivity extends AppCompatActivity {
     Button button, button2;
     TextView textView;
     EditText editText;
-4
+
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
